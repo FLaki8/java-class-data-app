@@ -1,0 +1,13 @@
+# --- Java / Maven の成果物 ---
+target/
+*.class
+
+# --- Eclipse 固有の設定ファイル ---
+.settings/
+.project
+.classpath
+.factorypath
+
+# --- OS固有の一時ファイル ---
+.DS_Store
+Thumbs.db
